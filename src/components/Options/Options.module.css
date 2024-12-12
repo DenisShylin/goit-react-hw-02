@@ -5,7 +5,6 @@
     margin-bottom: 20px;
 }
 
-/* Стилі для всіх кнопок, включаючи Reset */
 .options button {
     padding: 8px 16px;
     font-size: 16px;
@@ -16,14 +15,13 @@
     transition: all 0.3s ease;
 }
 
-/* Стилі при наведенні для всіх кнопок */
+
 
 .options button:hover {
     background-color: #f0f0f0;
 }
 
 
-/* Стилі при натисканні для всіх кнопок */
 .options button:active {
     background-color: #e0e0e0;
     transform: scale(0.98);
